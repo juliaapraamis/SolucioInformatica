@@ -1,7 +1,4 @@
-//dfghjkjhgfdfghjhgtfr
- 
- 
- void dibuixaPantallaIniciSessio(){
+void dibuixaPantallaIniciSessio(){
  }
  
  void dibuixaPantallaHome(){
