@@ -1,3 +1,6 @@
+//dfghjkjhgfdfghjhgtfr
+ 
+ 
  void dibuixaPantallaIniciSessio(){
  }
  
